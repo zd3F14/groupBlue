@@ -8,3 +8,6 @@ h1{
      url("../image/sky.jpg")      center center no-repeat /cover;
      color: #fff;
  }
+ ul li{
+  list-style-type: none;
+ }
