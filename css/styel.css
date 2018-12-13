@@ -1,13 +1,22 @@
 @charset "UTF-8";
 
 h1{
-  color: #fff;
+  color: blue;
+  background-color: red;
+  width: 200px;
+  height: 50px;
+}
+
 }
  body {
   background:
      url("../image/sky.jpg")      center center no-repeat /cover;
      color: #fff;
  }
+<<<<<<< HEAD
  ul li{
   list-style-type: none;
  }
+=======
+
+>>>>>>> c4db84a99d53acba6aaff6043ce446a9bfa082b8
