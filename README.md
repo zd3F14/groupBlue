@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # groupBlue
 
 ## 参加メンバー
