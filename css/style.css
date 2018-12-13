@@ -3,3 +3,13 @@
 h1 {
   color: #00f;
 }
+
+ul {
+  list-style-type: none;
+}
+
+li::before {
+  content: "\f2bd";
+  font-family: FontAwesome;
+  padding-right: 5px;
+}
