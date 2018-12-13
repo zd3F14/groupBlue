@@ -13,4 +13,12 @@ h1{
      url("../image/sky.jpg")      center center no-repeat /cover;
      color: #fff;
  }
+ p{
+  position :left;
+ }
+ li {
+ list-style-type: none;
+ float: left;
+ text-indent: 30px;
+ }
 
