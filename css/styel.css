@@ -8,7 +8,7 @@ h1{
     margin: 0 auto;
 }
 
-}
+
  body {
   background:
      url("../image/sky.jpg")      center center no-repeat /cover;
@@ -16,9 +16,6 @@ h1{
  }
  p{
   position :left;
- }
- .nav {
-      margin: 0 auto;
  }
   ul {
  list-style-type: none;
