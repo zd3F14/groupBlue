@@ -17,6 +17,9 @@ h1{
  p{
   position :left;
  }
+ .nav {
+      margin: 0 auto;
+ }
   ul {
  list-style-type: none;
  float: left;
