@@ -7,21 +7,28 @@ h1{
   height: 50px;
 }
 
+<<<<<<< HEAD:css/styel.css
+
+=======
+>>>>>>> 7c2553df5b169759f7fae69b919c6f2764e35eaf:css/style.css
  body {
   background:
      url("../image/sky.jpg")      center center no-repeat /cover;
      color: #fff;
  }
- p{
-  position :left;
+
+ ul li{
+  list-style-type: none;
  }
- li {
- list-style-type: none;
- float: left;
- text-indent: 30px;
- }
+<<<<<<< HEAD:css/styel.css
+
+p{
+  font-weight: bold;
+}
+=======
 li::before {
   content: "\f2bd";
   font-family: FontAwesome;
   padding-right: 5px;
 }
+>>>>>>> 7c2553df5b169759f7fae69b919c6f2764e35eaf:css/style.css
