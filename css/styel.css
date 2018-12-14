@@ -6,6 +6,8 @@ h1{
   width: 200px;
   height: 50px;
     margin: 0 auto;
+     text-align: center;
+font-family: 'Permanent Marker', cursive;
 }
 
 
@@ -14,16 +16,16 @@ h1{
      url("../image/sky.jpg")      center center no-repeat /cover;
      color: #fff;
  }
+#nav {
+   text-align: center;
+}
  p{
-  position :left;
+  font-size: 24px;
  }
   ul {
  list-style-type: none;
- float: left;
  text-indent: 30px;
- text-align: center;
- padding: 0 10px;
- }
+ text-align: center;}
  li {
  list-style-type: none;
  float: left;
